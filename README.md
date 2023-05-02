@@ -1,0 +1,2 @@
+# SynopsysMonoSlayer
+Synopsys License patcher
